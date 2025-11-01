@@ -5,8 +5,6 @@ A terminal-based Event Registration System built entirely in **C++**, using data
 - **Event Management** – Add, delete, and traverse events (Tree-based)
 - **Participant List** – Store, add, and remove participants (Linked List)
 - **Waiting List** – Handle overflow registrations (Queue)
-- **Reports** – Generate summaries of events and registrations
-- **Ticket Confirmation** – Every successful registration generates a unique ticket number
 
 ## DATA STRUCTURES USED
 | Feature | Data Structure | Purpose |
