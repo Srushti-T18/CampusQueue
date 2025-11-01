@@ -9,7 +9,7 @@ A terminal-based Event Registration System built entirely in **C++**, using data
 ## DATA STRUCTURES USED
 | Feature | Data Structure | Purpose |
 |----------|----------------|----------|
-| Event Hierarchy | Tree | To categorize main events |
+| Event Hierarchy | Tree | To categorize main events and sub-events |
 | Participant List | Linked List | Dynamic storage of participants |
 | Waiting List | Queue | Manage registration overflow (FIFO) |
 
